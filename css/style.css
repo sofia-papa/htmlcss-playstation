@@ -45,6 +45,18 @@
     height: 100px;
 }
 
+.square-box_ps4{
+    height: 150px;
+}
+
+.image_border{
+    border: 2px transparent solid;
+}
+
+.square-box:hover{
+   border: 4px solid blue;
+}
+
 .play_thumb{
     width: 100%;
 }
@@ -87,4 +99,21 @@
 #it_takes-two{
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
+}
+
+#bg_nuove-uscite{
+    background-color: gray;
+}
+
+.tony_hawks{
+    background-image: url("../img/tony-hawks-pro-skater-1-2-store-art.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.crash_bandicoot{
+    background-image: url("../img/crash-bandicoot-4-its-about-time-store-art.jpg");
+    background-size: cover;
+    background-position: center;
 }
