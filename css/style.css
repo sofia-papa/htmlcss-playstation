@@ -48,3 +48,43 @@
 .play_thumb{
     width: 100%;
 }
+
+#console{
+    background-image: url("../img/playstation-5-thumb.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#controller{
+    background-image: url("../img/joypad-thumb.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#cuffie_wireless{
+    background-image: url("../img/headset-thumb.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#tel_media{
+    background-image: url("../img/remote-thumb.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#telecamera{
+    background-image: url("../img/camera-thumb.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#it_takes-two{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+}
