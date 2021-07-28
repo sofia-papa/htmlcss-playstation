@@ -5,3 +5,42 @@
 .my_sony-logo{
     width: 100px;
 }
+
+.returnal-bootstrap-box{
+    height: 600px;
+}
+
+#jumbo_bg{
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+#returnal_logo{
+    width: 200px;
+}
+
+.first_line{
+    width: 100%;
+}
+
+.first_line > img{
+    width: 100%;
+    height: 100%;
+}
+
+.ret_little{
+    background-image: url("../img/returnal-listing-thumb-01-ps5.jpg");
+    ;
+    background-size: cover;
+}
+
+.ratchet_little{
+    background-image: url("../img/ratchet-and-clank-rift-apart-keyart.jpg");
+    background-size: cover;
+}
+
+.square-box{
+    height: 100px;
+}
