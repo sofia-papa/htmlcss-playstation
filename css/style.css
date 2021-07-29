@@ -7,7 +7,7 @@
 }
 
 .returnal-bootstrap-box{
-    height: 90vh;
+    height: 
 }
 
 #jumbo_bg{
@@ -15,10 +15,12 @@
     background-size: cover;
     background-position: center;
     height: 100%;
+    background-repeat: no-repeat;
+    padding: 220px 0 60px 0;
 }
 
-#returnal_logo{
-    width: 200px;
+.returnal_logo{
+    width: 60%;
 }
 
 .first_line{
@@ -116,4 +118,13 @@
     background-image: url("../img/crash-bandicoot-4-its-about-time-store-art.jpg");
     background-size: cover;
     background-position: center;
+}
+
+#soulstorm{
+    background-color: rgb(190, 184, 184);
+    
+}
+
+.soulstorm-box{
+    padding: 150px 0 60px 0;
 }
