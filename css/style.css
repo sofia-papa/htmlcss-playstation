@@ -122,9 +122,70 @@
 
 #soulstorm{
     background-color: rgb(190, 184, 184);
-    
 }
 
 .soulstorm-box{
     padding: 150px 0 60px 0;
+}
+
+.square_box_big{
+    height: 300px;
+    width: 100%;
+}
+
+#giochi_a_meno{
+    background-image: url("../img/playstation-store-games-under-20-spotlight.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#week_gold{
+    background-image: url("../img/playstation-store-golden-week-sale-spotlight.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#free_to_play{
+    background-image: url("../img/playstation-store-free-to-play-spotlight.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#avengers{
+    background-color: rgb(53, 32, 128);
+}
+
+.square-box-social{
+    height: 120px;
+}
+
+#twitter{
+    background-image: url("../img/twitter.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#facebook{
+    background-image: url("../img/facebook.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#instagram{
+    background-image: url("../img/instagram.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#you_tube{
+    background-image: url("../img/youtube.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
