@@ -191,3 +191,16 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+#footer_bg{
+    background-color: rgb(52, 52, 128);
+    padding: 30px 10px;
+}
+
+.list_footer li {
+    list-style-type: none;
+}
+
+.fab.fa-playstation{
+    font-size: 6rem;
+}
