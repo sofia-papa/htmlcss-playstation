@@ -1,9 +1,11 @@
 #sony-header{
     background-color: black;
+    text-align: right;
 }
 
 .my_sony-logo{
     width: 100px;
+    padding: 9px;
 }
 
 .returnal-bootstrap-box{
