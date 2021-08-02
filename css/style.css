@@ -103,6 +103,8 @@
 #it_takes-two{
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #bg_nuove-uscite{
